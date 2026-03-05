@@ -1,6 +1,6 @@
 # Deportes al Día SL
 
-![:https://logo.com/318e30b6-4692-467a-8753-a7e55ce5ddf7] 
+![https://logo.com/318e30b6-4692-467a-8753-a7e55ce5ddf7] 
 
 
 Sitio web dedicado a mantenerte **al día** con lo último en el mundo del deporte. Especializado en **Fútbol**, **Baloncesto** y **Béisbol**, con noticias, resultados en vivo, estadísticas, fichajes, lesiones y mucho más.
