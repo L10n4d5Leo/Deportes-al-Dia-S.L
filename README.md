@@ -1,6 +1,6 @@
 # Deportes al Día SL
 
-![Banner o logo si tienes](https://via.placeholder.com/1200x400?text=Deportes+al+Día+SL)  
+(blob:https://logo.com/318e30b6-4692-467a-8753-a7e55ce5ddf7)  
 *(reemplaza con una captura real o logo de tu web cuando lo subas)*
 
 Sitio web dedicado a mantenerte **al día** con lo último en el mundo del deporte. Especializado en **Fútbol**, **Baloncesto** y **Béisbol**, con noticias, resultados en vivo, estadísticas, fichajes, lesiones y mucho más.
