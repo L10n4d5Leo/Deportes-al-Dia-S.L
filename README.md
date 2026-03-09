@@ -65,20 +65,5 @@ Sección exclusiva de la **NBA**, la liga de baloncesto número 1 del planeta, c
 En el Este: **Detroit Pistons** lideran con récord impresionante (~45-18), seguidos por **Boston Celtics** (~42-21). En el Oeste: **Oklahoma City Thunder** dominan (~50-15), con Spurs, Rockets y Timberwolves en persecución. Temporada con alto voltaje: candidatos a MVP como Luka Dončić (promedio ~32.5 PPG), Shai Gilgeous-Alexander o Nikola Jokić, y equipos jóvenes como Thunder o Pistons sorprendiendo. ¡Highlights diarios, resúmenes de juegos, camino al anillo y toda la emoción NBA al instante!
 
 
-## 📸 Capturas de pantalla
-
-*(Sube 3–4 capturas buenas a la carpeta /screenshots o directamente en GitHub y pon los enlaces)*
-
-![Pantalla principal](<img width="1680" height="805" alt="Captura desde 2026-03-05 14-07-58" src="https://github.com/user-attachments/assets/c88f0ad2-9234-4de8-b44c-88771b3e396d" />
-)
-*Página principal con noticias destacadas*
-
-![Sección Fútbol](screenshots/futbol.png)
-*Sección dedicada al fútbol*
-
-![Sección Baloncesto](screenshots/baloncesto.png)
-*Noticias y resultados de baloncesto*
-
-![Sección Béisbol](screenshots/beisbol.png)
-*Información actualizada de béisbol*
+<img width="1680" height="805" alt="image" src="https://github.com/user-attachments/assets/aa55fa41-9d18-4f0b-9b49-071f53352e04" />
 
