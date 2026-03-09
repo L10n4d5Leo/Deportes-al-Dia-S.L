@@ -55,6 +55,7 @@ Nos enfocamos en las **cinco ligas top de Europa** (las más competitivas, con m
 
 
 - **Serie A (Italia)**: Táctica defensiva y pasión. (Actualizaciones diarias de standings, goleadores y fichajes invernales).
+- <img width="1008" height="677" alt="image" src="https://github.com/user-attachments/assets/82315727-f216-42a2-be5a-88562bf43233" />
 
 - **Bundesliga (Alemania)**: Fútbol ofensivo, goles y estadios llenos. (Líderes y sorpresas típicas de la liga alemana).
 
