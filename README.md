@@ -49,7 +49,8 @@ En esta sección te mantenemos al día con el **béisbol de élite**, centrándo
 Nos enfocamos en las **cinco ligas top de Europa** (las más competitivas, con mayor audiencia y valor económico global), actualizadas jornada a jornada en esta temporada 2025-26 (marzo 2026, alrededor de la jornada 27-30):
 
 - **Premier League (Inglaterra)**: La liga más intensa y rica. Actualmente lidera **Arsenal** con 67 puntos (20V-7E-3D, +37 DG), seguido de cerca por **Manchester City** (60 pts, +32 DG). Manchester United y Aston Villa pelean por top 4. ¡Carrera por el título muy abierta y lucha feroz por Champions!
-  
+- <img width="981" height="770" alt="image" src="https://github.com/user-attachments/assets/a2254e45-e6e8-4963-b7bd-89c096b4e66c" />
+
 - **LaLiga (España)**: Hogar del fútbol técnico y de estrellas. **FC Barcelona** domina con 67 puntos (22V-1E-4D, +46 DG), seguido de **Real Madrid** (63 pts, +33 DG). Atlético de Madrid y Villarreal completan el top 4. Clásicos y derbis que definen la temporada.
 - <img width="907" height="722" alt="image" src="https://github.com/user-attachments/assets/1d7528b2-cad2-4472-8fc8-be6f587dfefa" />
 
