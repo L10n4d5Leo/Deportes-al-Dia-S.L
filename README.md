@@ -40,7 +40,8 @@ Para mantener el sitio actualizado con noticias frescas de **fútbol**, **balonc
 - Béisbol / MLB: https://www.mundodeportivo.com/us/en/sports (sección US, o busca RSS específica de MLB si tienen)
 - Otras secciones: Puedes encontrar más en https://www.mundodeportivo.com/rss o herramientas como RSS.app / Feedspot.
 ## Secciones del sitio – Explicación detallada
-
+## Portada
+<img width="1680" height="805" alt="image" src="https://github.com/user-attachments/assets/aa55fa41-9d18-4f0b-9b49-071f53352e04" />
 ### ⚾ Béisbol
 En esta sección te mantenemos al día con el **béisbol de élite**, centrándonos en la **MLB** (Major League Baseball), la liga profesional más prestigiosa del mundo con 30 equipos divididos en ligas Americana (AL) y Nacional (NL). Actualmente (marzo 2026), la temporada regular aún no ha empezado: estamos en plena **Spring Training** (entrenamientos de pretemporada) con juegos de exhibición, donde prospectos y veteranos prueban formas, y destacan actuaciones como las de pitchers como Logan Gilbert (SEA) o Max Scherzer (TOR) en sus aperturas. Paralelamente, el gran foco internacional es el **World Baseball Classic 2026** (Clásico Mundial de Béisbol), que se juega del 5 al 17 de marzo en sedes como Miami, Houston, San Juan y Tokio. Japón defiende título, y ya hay resultados emocionantes: victorias de Japón sobre Australia, Corea sobre Chequia, Cuba sobre Colombia, y jonrones clave como el de Kyle Schwarber por Team USA. Cubrimos pools, standings, resultados en vivo, avances a cuartos y camino al campeón en Miami el 17 de marzo. ¡Noticias diarias, highlights, estadísticas de bateo/pitcheo y todo lo que mueve el diamante!
 
