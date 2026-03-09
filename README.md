@@ -45,6 +45,8 @@ Para mantener el sitio actualizado con noticias frescas de **fútbol**, **balonc
 
 ### ⚾ Béisbol
 En esta sección te mantenemos al día con el **béisbol de élite**, centrándonos en la **MLB** (Major League Baseball), la liga profesional más prestigiosa del mundo con 30 equipos divididos en ligas Americana (AL) y Nacional (NL). Actualmente (marzo 2026), la temporada regular aún no ha empezado: estamos en plena **Spring Training** (entrenamientos de pretemporada) con juegos de exhibición, donde prospectos y veteranos prueban formas, y destacan actuaciones como las de pitchers como Logan Gilbert (SEA) o Max Scherzer (TOR) en sus aperturas. Paralelamente, el gran foco internacional es el **World Baseball Classic 2026** (Clásico Mundial de Béisbol), que se juega del 5 al 17 de marzo en sedes como Miami, Houston, San Juan y Tokio. Japón defiende título, y ya hay resultados emocionantes: victorias de Japón sobre Australia, Corea sobre Chequia, Cuba sobre Colombia, y jonrones clave como el de Kyle Schwarber por Team USA. Cubrimos pools, standings, resultados en vivo, avances a cuartos y camino al campeón en Miami el 17 de marzo. ¡Noticias diarias, highlights, estadísticas de bateo/pitcheo y todo lo que mueve el diamante!
+<img width="998" height="845" alt="image" src="https://github.com/user-attachments/assets/e04e6f9c-9298-44c6-8de6-f88fe49c2f89" />
+
 
 ### ⚽ Fútbol – Las 5 Grandes Ligas
 Nos enfocamos en las **cinco ligas top de Europa** (las más competitivas, con mayor audiencia y valor económico global), actualizadas jornada a jornada en esta temporada 2025-26 (marzo 2026, alrededor de la jornada 27-30):
@@ -70,5 +72,7 @@ Incluye noticias de fichajes, resultados en vivo, tablas de posiciones actualiza
 Sección exclusiva de la **NBA**, la liga de baloncesto número 1 del planeta, con sus 30 franquicias en plena temporada 2025-26 (marzo 2026, fase decisiva de regular season rumbo a Playoffs). Cubrimos todo: marcadores en vivo, estadísticas avanzadas (puntos, rebotes, asistencias, triples, PER), lesiones, traspasos, power rankings y proyecciones de playoffs.
 En el Este: **Detroit Pistons** lideran con récord impresionante (~45-18), seguidos por **Boston Celtics** (~42-21). En el Oeste: **Oklahoma City Thunder** dominan (~50-15), con Spurs, Rockets y Timberwolves en persecución. Temporada con alto voltaje: candidatos a MVP como Luka Dončić (promedio ~32.5 PPG), Shai Gilgeous-Alexander o Nikola Jokić, y equipos jóvenes como Thunder o Pistons sorprendiendo. ¡Highlights diarios, resúmenes de juegos, camino al anillo y toda la emoción NBA al instante!
 <img width="998" height="845" alt="image" src="https://github.com/user-attachments/assets/bcd2b4f3-9a49-4b65-931a-155b1bc01455" />
+
+
 
 
