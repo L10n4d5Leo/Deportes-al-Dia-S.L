@@ -39,10 +39,30 @@ Para mantener el sitio actualizado con noticias frescas de **fútbol**, **balonc
 - Baloncesto: https://www.mundodeportivo.com/rss/baloncesto
 - Béisbol / MLB: https://www.mundodeportivo.com/us/en/sports (sección US, o busca RSS específica de MLB si tienen)
 - Otras secciones: Puedes encontrar más en https://www.mundodeportivo.com/rss o herramientas como RSS.app / Feedspot.
+## Secciones del sitio – Explicación detallada
 
-Trabaje mucho en esta pagina web para poder informaros de estos deportes t agragando imagenes
+### ⚾ Béisbol
+En esta sección te mantenemos al día con el **béisbol de élite**, centrándonos en la **MLB** (Major League Baseball), la liga profesional más prestigiosa del mundo con 30 equipos divididos en ligas Americana (AL) y Nacional (NL). Actualmente (marzo 2026), la temporada regular aún no ha empezado: estamos en plena **Spring Training** (entrenamientos de pretemporada) con juegos de exhibición, donde prospectos y veteranos prueban formas, y destacan actuaciones como las de pitchers como Logan Gilbert (SEA) o Max Scherzer (TOR) en sus aperturas. Paralelamente, el gran foco internacional es el **World Baseball Classic 2026** (Clásico Mundial de Béisbol), que se juega del 5 al 17 de marzo en sedes como Miami, Houston, San Juan y Tokio. Japón defiende título, y ya hay resultados emocionantes: victorias de Japón sobre Australia, Corea sobre Chequia, Cuba sobre Colombia, y jonrones clave como el de Kyle Schwarber por Team USA. Cubrimos pools, standings, resultados en vivo, avances a cuartos y camino al campeón en Miami el 17 de marzo. ¡Noticias diarias, highlights, estadísticas de bateo/pitcheo y todo lo que mueve el diamante!
 
-¡Así logré un sitio dinámico, actualizado y con poco mantenimiento diario! Si clonas el repo, recuerda que el contenido real está en la base de datos del hosting (no en Git), pero puedes exportar/importar con **All-in-One WP Migration** o **Duplicator**.
+### ⚽ Fútbol – Las 5 Grandes Ligas
+Nos enfocamos en las **cinco ligas top de Europa** (las más competitivas, con mayor audiencia y valor económico global), actualizadas jornada a jornada en esta temporada 2025-26 (marzo 2026, alrededor de la jornada 27-30):
+
+- **Premier League (Inglaterra)**: La liga más intensa y rica. Actualmente lidera **Arsenal** con 67 puntos (20V-7E-3D, +37 DG), seguido de cerca por **Manchester City** (60 pts, +32 DG). Manchester United y Aston Villa pelean por top 4. ¡Carrera por el título muy abierta y lucha feroz por Champions!
+  
+- **LaLiga (España)**: Hogar del fútbol técnico y de estrellas. **FC Barcelona** domina con 67 puntos (22V-1E-4D, +46 DG), seguido de **Real Madrid** (63 pts, +33 DG). Atlético de Madrid y Villarreal completan el top 4. Clásicos y derbis que definen la temporada.
+
+- **Serie A (Italia)**: Táctica defensiva y pasión. (Actualizaciones diarias de standings, goleadores y fichajes invernales).
+
+- **Bundesliga (Alemania)**: Fútbol ofensivo, goles y estadios llenos. (Líderes y sorpresas típicas de la liga alemana).
+
+- **Ligue 1 (Francia)**: Dominio del PSG con estrellas globales, pero cada vez más competitiva.
+
+Incluye noticias de fichajes, resultados en vivo, tablas de posiciones actualizadas, máximos goleadores, lesiones clave y resúmenes de jornadas. ¡Lo imprescindible de las ligas que marcan el ritmo del fútbol mundial!
+
+### 🏀 Baloncesto – Solo NBA
+Sección exclusiva de la **NBA**, la liga de baloncesto número 1 del planeta, con sus 30 franquicias en plena temporada 2025-26 (marzo 2026, fase decisiva de regular season rumbo a Playoffs). Cubrimos todo: marcadores en vivo, estadísticas avanzadas (puntos, rebotes, asistencias, triples, PER), lesiones, traspasos, power rankings y proyecciones de playoffs.
+
+En el Este: **Detroit Pistons** lideran con récord impresionante (~45-18), seguidos por **Boston Celtics** (~42-21). En el Oeste: **Oklahoma City Thunder** dominan (~50-15), con Spurs, Rockets y Timberwolves en persecución. Temporada con alto voltaje: candidatos a MVP como Luka Dončić (promedio ~32.5 PPG), Shai Gilgeous-Alexander o Nikola Jokić, y equipos jóvenes como Thunder o Pistons sorprendiendo. ¡Highlights diarios, resúmenes de juegos, camino al anillo y toda la emoción NBA al instante!
 
 
 ## 📸 Capturas de pantalla
