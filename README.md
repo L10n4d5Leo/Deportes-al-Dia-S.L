@@ -68,7 +68,7 @@ Incluye noticias de fichajes, resultados en vivo, tablas de posiciones actualiza
 
 ### 🏀 Baloncesto – Solo NBA
 Sección exclusiva de la **NBA**, la liga de baloncesto número 1 del planeta, con sus 30 franquicias en plena temporada 2025-26 (marzo 2026, fase decisiva de regular season rumbo a Playoffs). Cubrimos todo: marcadores en vivo, estadísticas avanzadas (puntos, rebotes, asistencias, triples, PER), lesiones, traspasos, power rankings y proyecciones de playoffs.
-
 En el Este: **Detroit Pistons** lideran con récord impresionante (~45-18), seguidos por **Boston Celtics** (~42-21). En el Oeste: **Oklahoma City Thunder** dominan (~50-15), con Spurs, Rockets y Timberwolves en persecución. Temporada con alto voltaje: candidatos a MVP como Luka Dončić (promedio ~32.5 PPG), Shai Gilgeous-Alexander o Nikola Jokić, y equipos jóvenes como Thunder o Pistons sorprendiendo. ¡Highlights diarios, resúmenes de juegos, camino al anillo y toda la emoción NBA al instante!
+<img width="998" height="845" alt="image" src="https://github.com/user-attachments/assets/bcd2b4f3-9a49-4b65-931a-155b1bc01455" />
 
 
