@@ -61,6 +61,7 @@ Nos enfocamos en las **cinco ligas top de Europa** (las más competitivas, con m
 - **Bundesliga (Alemania)**: Fútbol ofensivo, goles y estadios llenos. (Líderes y sorpresas típicas de la liga alemana).
 
 - **Ligue 1 (Francia)**: Dominio del PSG con estrellas globales, pero cada vez más competitiva.
+- <img width="968" height="796" alt="image" src="https://github.com/user-attachments/assets/9fc8961d-5668-49a2-9181-93b256fcefd1" />
 
 Incluye noticias de fichajes, resultados en vivo, tablas de posiciones actualizadas, máximos goleadores, lesiones clave y resúmenes de jornadas. ¡Lo imprescindible de las ligas que marcan el ritmo del fútbol mundial!
 
@@ -69,6 +70,4 @@ Sección exclusiva de la **NBA**, la liga de baloncesto número 1 del planeta, c
 
 En el Este: **Detroit Pistons** lideran con récord impresionante (~45-18), seguidos por **Boston Celtics** (~42-21). En el Oeste: **Oklahoma City Thunder** dominan (~50-15), con Spurs, Rockets y Timberwolves en persecución. Temporada con alto voltaje: candidatos a MVP como Luka Dončić (promedio ~32.5 PPG), Shai Gilgeous-Alexander o Nikola Jokić, y equipos jóvenes como Thunder o Pistons sorprendiendo. ¡Highlights diarios, resúmenes de juegos, camino al anillo y toda la emoción NBA al instante!
 
-
-<img width="1680" height="805" alt="image" src="https://github.com/user-attachments/assets/aa55fa41-9d18-4f0b-9b49-071f53352e04" />
 
